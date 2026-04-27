@@ -2,6 +2,8 @@
 
 ## Descripción
 
-Este repositorio contiene el material correspondiente al segundo parcial. En él se incluye el trabajo desarrollado para el análisis de la calidad del agua en la India.
+En este repositorio se encuentra todo el material necesario para la entrega del segundo parcial de procesamiento de datos.
 
-El contenido principal abarca un cuaderno de Python, junto con las bases de datos necesarias para llevar a cabo el análisis, así como la documentación que describe el proceso realizado y los resultados obtenidos.
+Se incluye un cuaderno de Python que contiene los análisis de datos, los procesos requeridos, visualizaciones y un análisis más detallado mediante el uso de Keras.
+
+Asimismo, se incorporan las bases de datos utilizadas en el cuaderno y una documentación complementaria que amplía y respalda el contenido desarrollado.
